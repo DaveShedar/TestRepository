@@ -1,7 +1,6 @@
 Hello world!
 
 some changes 1 add some modification
-
-push file with changes to github
+another line from user1
 
 some line from user1
