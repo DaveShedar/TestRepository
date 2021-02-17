@@ -1,6 +1,7 @@
 Hello world!
 
 some changes 1 add some modification
-another line from user1
 
-some line from user1
+line from user2
+line from user1
+
